@@ -91,10 +91,11 @@ p{
     padding-left: 5%;
 }
 .bbox{
-    width: 30%;
+    width: 20%;
     height: 80px;
     float: left;
     padding: 10px;
+    margin: 15px;
 }
 
 #inqurey-box {
