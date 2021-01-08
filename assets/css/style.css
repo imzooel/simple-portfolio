@@ -1,0 +1,160 @@
+h1{
+    margin: 0;
+    font-size: 40px;
+    font-family: 'Poppins', sans-serif;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    margin: 0;
+    padding: 0;
+    background: url(../img/others/backcover.jpg) no-repeat center center fixed; 
+    height: 100%;
+    background-size: cover;
+}
+nav ul{
+    margin-top: 30px;
+    margin-left: 70%;
+    padding: 0;
+}
+nav li{
+    display: inline;
+    padding: 15px;
+}
+nav li a{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    font-family: sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+}
+#nickname{
+    font-size: 45px;
+    color: rgb(93, 93, 207);
+}
+.half-width{
+    font-size: 25px;
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-top: 6%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 95%;
+}
+p{
+    font-size: 80%;
+    text-align: justify;
+}
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, rgb(62, 50, 235), tomato);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+.highlight{
+    color: rgb(241, 62, 62);
+}
+.psection{
+    padding-top: 90%;
+    text-align: center;
+    font-size: 20px;
+    padding-left: 5%;
+    
+}
+.psection h2{
+    margin-bottom: 5%;
+}
+.box{
+    background-color: rgb(54, 53, 53);
+    width: 30%;
+    height: 10%;
+    float: left;
+    margin: 5px;
+    padding: 15px;
+    border-radius: 5%;
+}
+.box h4, p{
+    color: rgb(255, 255, 255);
+    margin-top: 5px;
+}
+.projects-img{
+    width: 100%;
+}
+.blogsection{
+    padding-top: 550px;
+    text-align: center;
+    font-size: 20px;
+    padding-left: 5%;
+}
+.bbox{
+    width: 30%;
+    height: 80px;
+    float: left;
+    padding: 10px;
+}
+
+#inqurey-box {
+    height: 200px;
+  position: relative;
+  margin-left: 30%;
+  border-radius: 20px;
+  width: 40%;
+  background-image: url("../img/others/backphoto.png");
+  background-size: auto;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+#inner-text {
+    margin: 0;
+  position: absolute;
+  top: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+  padding-left: 150px;
+  font-size: 20px;
+  font-weight: 700;
+  
+}
+.lastsection{
+    padding-top: 20%;
+}
+.button2{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, rgb(62, 50, 235), tomato);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+    float: right;
+
+    margin-left: 70%;
+  position: absolute;
+  top: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+
+#footer {
+    padding-top: 20px;
+    text-align: center;
+}
+
+#text1 {
+    color: rgb(238, 229, 229);
+    font-size: 25px;
+    font-weight: 20px;
+}
+
+#text2 {
+    font-size: 35px;
+    padding-bottom: 10px;
+}
+
+.social-icons {
+    height: 50px;
+    padding: 10px;
+}
