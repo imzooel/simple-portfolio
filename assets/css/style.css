@@ -55,6 +55,9 @@ p{
     color: white;
     font-weight: 700;
 }
+.button:hover{
+    background-image: linear-gradient(30deg, rgb(27, 25, 194), rgb(216, 52, 52));
+}
 .highlight{
     color: rgb(241, 62, 62);
 }
@@ -138,7 +141,7 @@ p{
     transform: translateY(-50%);
 }
 .button2:hover{
-    color: rgb(4, 205, 255);
+    background-image: linear-gradient(30deg, rgb(27, 25, 194), rgb(216, 52, 52));
 }
 #footer {
     padding-top: 20px;
