@@ -1,5 +1,3 @@
-# Simple Portfolio
-
 ## Live Site
 [https://imzooel.github.io/simple-portfolio/](https://imzooel.github.io/simple-portfolio/)
 
